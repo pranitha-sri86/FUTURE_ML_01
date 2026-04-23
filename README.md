@@ -71,6 +71,10 @@ This project demonstrates how Machine Learning can be applied to real-world busi
 ## 🙌 Acknowledgment
 This project was completed as part of the Machine Learning Internship by Future Interns.
 
+## 📊 Sample Visualization
+
+![Sales Trend](<img width="1199" height="721" alt="task-1" src="https://github.com/user-attachments/assets/63cccecb-fd3d-4a60-b4f1-9011ec4bdebe" />
+)
 
 
 ## 📎 GitHub Repository
